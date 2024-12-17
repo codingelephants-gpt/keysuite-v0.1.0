@@ -5,7 +5,7 @@ KeySuite generates random passkeys with letters and numbers.
 
 ## How to install:
 1. Go to your file directory and open it in your shell
-2. Run
+2. Run the following code:
 ```shell
 pip install .
 ```
