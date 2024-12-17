@@ -19,7 +19,7 @@ sudo apt install .
 import keysuite
 
 print(keysuite.newpass())
-# Example Output: G@a3Fz2*pLkT
+# Example Output: 'G@a3Fz2*pLkT'
 ```
 - newpass_nl() - Generates a random passkey but only uses numbers and letters.
 ```python
