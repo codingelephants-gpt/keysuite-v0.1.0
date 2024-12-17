@@ -15,7 +15,19 @@ sudo apt install .
 ```
 ## Commands
 - newpass() - Generates a random passkey by shuffling a variety of different characters.
+```python
+import keysuite
+
+print(keysuite.newpass())
+# Example Output: G@a3Fz2*pLkT
+```
 - newpass_nl() - Generates a random passkey but only uses numbers and letters.
+```python
+import keysuite
+
+print(keysuite.newpass())
+# Example output: 'Nm4fg7u3132Z'
+```
 
 
 ## About codingelephants-gpt
