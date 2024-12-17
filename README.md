@@ -1,4 +1,4 @@
-# KeySuite V0.1.0
+# KeySuite V0.1.5
 ## About KeySuite
 KeySuite is a python module to generate random passkeys.
 KeySuite generates random passkeys with letters and numbers.
