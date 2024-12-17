@@ -2,6 +2,13 @@
 ## About KeySuite
 KeySuite is a python module to generate random passkeys.
 KeySuite generates random passkeys with letters and numbers.
+
+## How to install:
+1. Go to your file directory and open it in your shell
+2. Run
+```shell
+pip install .
+```
 ## Commands
 - newpass() - Generates a random passkey.
 
