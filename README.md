@@ -19,3 +19,5 @@ sudo apt install .
 
 ## About codingelephants-gpt
 I am a single developer so there wont be a lot coming here yet.
+
+(Dont mind all the commits, i was trying to remove bugs.)
