@@ -1,1 +1,1 @@
-from .core import keysuite
+from .core import *
