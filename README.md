@@ -14,7 +14,8 @@ pip install .
 sudo apt install .
 ```
 ## Commands
-- newpass() - Generates a random passkey.
+- newpass() - Generates a random passkey by shuffling a variety of different characters.
+- newpass_nl() - Generates a random passkey but only uses numbers and letters.
 
 
 ## About codingelephants-gpt
