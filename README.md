@@ -9,6 +9,10 @@ KeySuite generates random passkeys with letters and numbers.
 ```bash
 pip install .
 ```
+   Or on linux:
+```bash
+sudo apt install .
+```
 ## Commands
 - newpass() - Generates a random passkey.
 
