@@ -9,10 +9,8 @@ It can create passkeys using a mix of letters, numbers, and symbols or only numb
 ```bash
 pip install .
 ```
-   Or on linux:
-```bash
-sudo apt install .
-```
+On linux execute the auto_inst_unix.py file. (you can do the same with windows)
+
 ## Commands
 - newpass() - Generates a random passkey by shuffling a variety of different characters.
 ```python
