@@ -7,7 +7,7 @@ It can create passkeys using a mix of letters, numbers, and symbols or only numb
 1. Go to your file directory and open it in your shell
 2. Run the following code:
 ```bash
-pip install .
+pip install . #windows
 ```
 On linux execute the auto_inst_on_unix.py file. (you can do the same with windows)
 ```shell
