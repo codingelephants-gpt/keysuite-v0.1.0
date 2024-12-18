@@ -28,6 +28,8 @@ import keysuite
 print(keysuite.newpass())
 # Example output: 'Nm4fg7u3132Z'
 ```
+- intro.help - A string that shows all the commands.
+(The rest is located in intro.help!)
 
 
 ## About codingelephants-gpt
