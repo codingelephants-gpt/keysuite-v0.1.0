@@ -11,10 +11,10 @@ pip install .
 ```
 On linux execute the auto_inst_on_unix.py file. (you can do the same with windows)
 ```shell
-python3 auto_inst_on_unix.py
+python3 auto_inst_on_unix.py #linux
 ```
 ```shell
-auto_inst_on_win.py
+auto_inst_on_win.py #windows
 ```
 ## Commands
 - newpass() - Generates a random passkey by shuffling a variety of different characters.
